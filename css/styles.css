@@ -961,6 +961,39 @@ img {
   font-size: 0.85rem;
 }
 
+.bee-footer-map {
+  margin-top: 16px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.bee-footer-map iframe {
+  display: block;
+  width: 100%;
+  height: 185px;
+  border: 0;
+}
+
+.bee-footer-map-link {
+  display: block;
+  padding: 6px 10px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #e2e8f0;
+  text-align: center;
+  text-decoration: none;
+  background: rgba(0, 0, 0, 0.18);
+  transition: color 0.2s ease, background 0.2s ease;
+}
+
+.bee-footer-map-link:hover {
+  color: var(--bee-orange-light);
+  background: rgba(0, 0, 0, 0.3);
+}
+
 /* ==========================================================================
    8. MODALS & FLOATING WIDGET
    ========================================================================== */

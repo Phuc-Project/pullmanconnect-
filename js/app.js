@@ -18,15 +18,11 @@ document.addEventListener('DOMContentLoaded', () => {
    ========================================================================== */
 const LOGISTICS_CONFIG = {
   receiverEmail: 'Bel@pullmanconnect.com', // ✉️ Email tiếp nhận thông báo đơn hàng của chuyên viên/doanh nghiệp
-  cuongEmail: 'admin@pullmanconnect.onmicrosoft.com', // ✉️ Email chuyên viên Mr Cường
   contactLinh: '0916712502 (Ms Linh)',         // 📞 Chuyên viên Ms Linh
-  contactCuong: '0942512234 (Mr Cường)',       // 👤 Chuyên viên Mr Cường
-  hotline: '0916712502 (Ms Linh) - 0942512234 (Mr Cường)', // 📞 Số Hotline hiển thị trên web
+  hotline: '0916712502 (Ms Linh)',           // 📞 Số Hotline hiển thị trên web
   hotlineCall: '0916712502',                 // 📞 Số điện thoại khi khách bấm gọi trực tiếp
-  cuongHotlineCall: '0942512234',            // 📞 Số điện thoại Mr Cường
-  zaloUrl: 'https://zalo.me/0942512234',     // 💬 Link Zalo Mr Cường
   zaloLinhUrl: 'https://zalo.me/0916712502', // 💬 Link Zalo Ms Linh
-  whatsappUrl: 'https://wa.me/84942512234'   // 💬 Link WhatsApp quốc tế
+  whatsappUrl: 'https://wa.me/84916712502'   // 💬 Link WhatsApp quốc tế
 };
 
 /**
@@ -39,13 +35,9 @@ function applyLogisticsConfig() {
     quoteForm.action = `https://formsubmit.co/${LOGISTICS_CONFIG.receiverEmail}`;
   }
 
-  // 2. Cập nhật Link Zalo và WhatsApp trên toàn trang mà không ghi đè lẫn nhau
+  // 2. Cập nhật Link Zalo và WhatsApp trên toàn trang
   document.querySelectorAll('a[href*="zalo.me"]').forEach(el => {
-    if (el.href.includes('0916712502') || (el.title && el.title.toLowerCase().includes('linh')) || el.getAttribute('data-contact') === 'linh') {
-      if (LOGISTICS_CONFIG.zaloLinhUrl) el.href = LOGISTICS_CONFIG.zaloLinhUrl;
-    } else {
-      if (LOGISTICS_CONFIG.zaloUrl) el.href = LOGISTICS_CONFIG.zaloUrl;
-    }
+    if (LOGISTICS_CONFIG.zaloLinhUrl) el.href = LOGISTICS_CONFIG.zaloLinhUrl;
   });
   document.querySelectorAll('a[href*="wa.me"]').forEach(el => {
     if (LOGISTICS_CONFIG.whatsappUrl) el.href = LOGISTICS_CONFIG.whatsappUrl;
