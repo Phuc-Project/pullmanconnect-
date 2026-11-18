@@ -163,7 +163,8 @@ const I18N_DICTIONARY = {
     // Footer
     footerCopyright: 'Bản quyền © 2026 <strong>CÔNG TY TNHH PULLMAN CONNECT INTERNATIONAL.</strong> Bảo lưu toàn bộ quyền.',
     footerTaxId: '🏢 <strong>MÃ SỐ THUẾ</strong>: 0601333677',
-    footerHeadOffice: '🏠 <strong>TRỤ SỞ CHÍNH (HEAD OFFICE)</strong>: Số 167 Nguyễn Khánh Toàn, Phường Đông A, Tỉnh Ninh Bình, Việt Nam',
+    footerTaxAddress: '📍 <strong>ĐỊA CHỈ THUẾ</strong>: Số 167 Nguyễn Khánh Toàn, Phường Đông A, Tỉnh Ninh Bình, Việt Nam',
+    footerHeadOffice: '🏠 <strong>TRỤ SỞ CHÍNH (HEAD OFFICE)</strong>: 152 Nguyễn Văn Đậu, Tân Định, TP. Hồ Chí Minh, Việt Nam',
     footerEmail: '✉️ <strong>Email điều hành</strong>: <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
     footerPhone: '📞 <strong>Hotline</strong>: <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">0916712502 (Ms Linh)</a>',
     footerLinh: '👩‍💼 <strong>Ms Linh</strong>: 📞 <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">0916712502</a> - ✉️ <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
@@ -337,7 +338,8 @@ const I18N_DICTIONARY = {
     // Footer
     footerCopyright: 'Copyright © 2026 <strong>PULLMAN CONNECT INTERNATIONAL CO., LTD.</strong> All rights reserved.',
     footerTaxId: '🏢 <strong>TAX ID</strong>: 0601333677',
-    footerHeadOffice: '🏠 <strong>HEAD OFFICE</strong>: No. 167 Nguyen Khanh Toan, Dong A Ward, Ninh Binh Province, Vietnam',
+    footerTaxAddress: '📍 <strong>TAX ADDRESS</strong>: No. 167 Nguyen Khanh Toan, Dong A Ward, Ninh Binh Province, Vietnam',
+    footerHeadOffice: '🏠 <strong>HEAD OFFICE</strong>: 152 Nguyen Van Dau, Tan Dinh, Ho Chi Minh City, Vietnam',
     footerEmail: '✉️ <strong>Operations Email</strong>: <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
     footerPhone: '📞 <strong>Hotline</strong>: <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">(+84) 916712502 (Ms Linh)</a>',
     footerLinh: '👩‍💼 <strong>Ms Linh</strong>: 📞 <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">(+84) 916712502</a> - ✉️ <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
@@ -511,7 +513,8 @@ const I18N_DICTIONARY = {
     // Footer
     footerCopyright: '版权所有 © 2026 <strong>PULLMAN CONNECT INTERNATIONAL 有限责任公司.</strong> 保留所有权利。',
     footerTaxId: '🏢 <strong>税号 (TAX ID)</strong>: 0601333677',
-    footerHeadOffice: '🏠 <strong>总部地址 (HEAD OFFICE)</strong>: Số 167 Nguyễn Khánh Toàn, Phường Đông A, Tỉnh Ninh Bình, Việt Nam',
+    footerTaxAddress: '📍 <strong>税务地址</strong>: Số 167 Nguyễn Khánh Toàn, Phường Đông A, Tỉnh Ninh Bình, Việt Nam',
+    footerHeadOffice: '🏠 <strong>总部地址 (HEAD OFFICE)</strong>: 152 Nguyen Van Dau, Tan Dinh, Ho Chi Minh City, Vietnam',
     footerEmail: '✉️ <strong>运营邮箱</strong>: <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
     footerPhone: '📞 <strong>服务热线</strong>: <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">0916712502 (Ms Linh)</a>',
     footerLinh: '👩‍💼 <strong>Ms Linh</strong>: 📞 <a href="tel:0916712502" style="color:#ffffff; text-decoration: underline;">0916712502</a> - ✉️ <a href="mailto:Bel@pullmanconnect.com" style="color:#ffffff; text-decoration: underline;">Bel@pullmanconnect.com</a>',
