@@ -346,7 +346,7 @@ function initContactForms() {
     const submitTime = new Date().toLocaleString('vi-VN');
 
     const emailPayload = {
-      _subject: `[PULLMAN CONNECT] Báo giá mới từ: ${name} (${phone}) - ${randomReqCode}`,
+      _subject: `[PULLMAN CONNECT INTERNATIONAL] Báo giá mới từ: ${name} (${phone}) - ${randomReqCode}`,
       _template: 'table',
       _captcha: 'false',
       _replyto: email,

@@ -1,3 +1,3 @@
 # pullmanconnect-
 
-Pullman Logistics & Supply Chain Website
+Pullman Connect International - Logistics & Supply Chain Website

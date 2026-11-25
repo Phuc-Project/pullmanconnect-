@@ -14,7 +14,7 @@ const I18N_DICTIONARY = {
     hotlineLinh: 'Ms Linh: <a href="tel:0916712502">0916712502</a> - <a href="mailto:Bel@pullmanconnect.com">Bel@pullmanconnect.com</a>',
     navHome: '🏠 TRANG CHỦ',
     navAbout: 'VỀ CHÚNG TÔI ▾',
-    navAboutIntro: 'Giới Thiệu Về Pullman Connect',
+    navAboutIntro: 'Giới Thiệu Về Pullman Connect International',
     navAboutVision: 'Tầm Nhìn - Sứ Mệnh - Giá Trị Cốt Lõi',
     navAboutCommit: 'Cam Kết Chất Lượng Dịch Vụ',
     navAboutNetwork: 'Mạng Lưới Chi Nhánh Toàn Cầu',
@@ -52,7 +52,7 @@ const I18N_DICTIONARY = {
     // Pillars Header
     pillarsBadge: 'HỆ SINH THÁI DỊCH VỤ TOÀN DIỆN',
     pillarsTitle: '5 TRỤ CỘT DỊCH VỤ <span>CỐT LÕI</span>',
-    pillarsDesc: 'Pullman Connect cung cấp giải pháp chuỗi cung ứng khép kín, tối ưu hóa chi phí và đảm bảo dòng chảy thương mại xuyên suốt từ nhà máy đến tay người tiêu dùng cuối cùng.',
+    pillarsDesc: 'Pullman Connect International cung cấp giải pháp chuỗi cung ứng khép kín, tối ưu hóa chi phí và đảm bảo dòng chảy thương mại xuyên suốt từ nhà máy đến tay người tiêu dùng cuối cùng.',
 
     // Pillar 1
     p1Badge: 'TRỤ CỘT 1',
@@ -191,7 +191,7 @@ const I18N_DICTIONARY = {
     hotlineLinh: 'Ms Linh: <a href="tel:0916712502">(+84) 916712502</a> - <a href="mailto:Bel@pullmanconnect.com">Bel@pullmanconnect.com</a>',
     navHome: '🏠 HOME',
     navAbout: 'ABOUT US ▾',
-    navAboutIntro: 'About Pullman Connect',
+    navAboutIntro: 'About Pullman Connect International',
     navAboutVision: 'Vision - Mission - Core Values',
     navAboutCommit: 'Quality Service Commitments',
     navAboutNetwork: 'Global Branch Network',
@@ -229,7 +229,7 @@ const I18N_DICTIONARY = {
     // Pillars Header
     pillarsBadge: 'COMPREHENSIVE SERVICE ECOSYSTEM',
     pillarsTitle: '5 CORE SERVICES & <span>SUPPLY PILLARS</span>',
-    pillarsDesc: 'Pullman Connect delivers end-to-end supply chain solutions, optimizing costs and ensuring seamless trade flow from factory floor to end consumers.',
+    pillarsDesc: 'Pullman Connect International delivers end-to-end supply chain solutions, optimizing costs and ensuring seamless trade flow from factory floor to end consumers.',
 
     // Pillar 1
     p1Badge: 'PILLAR 1',
@@ -368,7 +368,7 @@ const I18N_DICTIONARY = {
     hotlineLinh: 'Ms Linh: <a href="tel:0916712502">0916712502</a> - <a href="mailto:Bel@pullmanconnect.com">Bel@pullmanconnect.com</a>',
     navHome: '🏠 首页',
     navAbout: '关于我们 ▾',
-    navAboutIntro: '关于 Pullman Connect',
+    navAboutIntro: '关于 Pullman Connect International',
     navAboutVision: '企业愿景 - 使命 - 核心价值观',
     navAboutCommit: '高品质服务承诺',
     navAboutNetwork: '全球服务网络',
@@ -406,7 +406,7 @@ const I18N_DICTIONARY = {
     // Pillars Header
     pillarsBadge: '全方位物流生态系统',
     pillarsTitle: '五大核心服务与 <span>供应链支柱</span>',
-    pillarsDesc: 'Pullman Connect 提供全流程供应链闭环服务，有效降低物流成本，保障从源头工厂到终端客户的货物通畅流转。',
+    pillarsDesc: 'Pullman Connect International 提供全流程供应链闭环服务，有效降低物流成本，保障从源头工厂到终端客户的货物通畅流转。',
 
     // Pillar 1
     p1Badge: '支柱一',

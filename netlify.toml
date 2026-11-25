@@ -1,4 +1,4 @@
-# Netlify Configuration for PULLMAN CONNECT
+# Netlify Configuration for PULLMAN CONNECT INTERNATIONAL
 [build]
   publish = "."
 
