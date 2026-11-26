@@ -50,9 +50,9 @@ const I18N_DICTIONARY = {
     slide4Btn2: 'NHẬN BÁO GIÁ THẦU',
 
     // Pillars Header
-    pillarsBadge: 'HỆ SINH THÁI DỊCH VỤ TOÀN DIỆN',
+    pillarsBadge: 'CÔNG TY TNHH PULLMAN CONNECT INTERNATIONAL',
     pillarsTitle: '5 TRỤ CỘT DỊCH VỤ <span>CỐT LÕI</span>',
-    pillarsDesc: 'Pullman Connect International cung cấp giải pháp chuỗi cung ứng khép kín, tối ưu hóa chi phí và đảm bảo dòng chảy thương mại xuyên suốt từ nhà máy đến tay người tiêu dùng cuối cùng.',
+    pillarsDesc: 'Pullman Connect International (CÔNG TY TNHH PULLMAN CONNECT INTERNATIONAL · MST: 0601333677) cung cấp giải pháp chuỗi cung ứng khép kín, tối ưu hóa chi phí và đảm bảo dòng chảy thương mại xuyên suốt từ nhà máy đến tay người tiêu dùng cuối cùng.',
 
     // Pillar 1
     p1Badge: 'TRỤ CỘT 1',
@@ -227,9 +227,9 @@ const I18N_DICTIONARY = {
     slide4Btn2: 'REQUEST PROCUREMENT QUOTE',
 
     // Pillars Header
-    pillarsBadge: 'COMPREHENSIVE SERVICE ECOSYSTEM',
+    pillarsBadge: 'PULLMAN CONNECT INTERNATIONAL CO., LTD.',
     pillarsTitle: '5 CORE SERVICES & <span>SUPPLY PILLARS</span>',
-    pillarsDesc: 'Pullman Connect International delivers end-to-end supply chain solutions, optimizing costs and ensuring seamless trade flow from factory floor to end consumers.',
+    pillarsDesc: 'Pullman Connect International (Tax ID: 0601333677) delivers end-to-end supply chain solutions, optimizing costs and ensuring seamless trade flow from factory floor to end consumers.',
 
     // Pillar 1
     p1Badge: 'PILLAR 1',
@@ -404,9 +404,9 @@ const I18N_DICTIONARY = {
     slide4Btn2: '获取总包报价',
 
     // Pillars Header
-    pillarsBadge: '全方位物流生态系统',
+    pillarsBadge: 'PULLMAN CONNECT INTERNATIONAL 有限责任公司',
     pillarsTitle: '五大核心服务与 <span>供应链支柱</span>',
-    pillarsDesc: 'Pullman Connect International 提供全流程供应链闭环服务，有效降低物流成本，保障从源头工厂到终端客户的货物通畅流转。',
+    pillarsDesc: 'Pullman Connect International（税号：0601333677）提供全流程供应链闭环服务，有效降低物流成本，保障从源头工厂到终端客户的货物通畅流转。',
 
     // Pillar 1
     p1Badge: '支柱一',
